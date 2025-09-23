@@ -4,25 +4,27 @@
     "url": "https://c.femmy.chat/_matrix/client/versions",
     "icon": "https://icons.duckduckgo.com/ip3/c.femmy.chat.ico",
     "slug": "conduit-client-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 425,
     "timeDay": 333,
     "timeWeek": 425,
     "timeMonth": 425,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-23": 2
+    }
   },
   {
     "name": "Conduit Federation API",
     "url": "https://c.femmy.chat/_matrix/federation/v1/version",
     "icon": "https://icons.duckduckgo.com/ip3/c.femmy.chat.ico",
     "slug": "conduit-federation-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 47,
     "timeMonth": 47,
     "timeYear": 47,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-23": 0
+    }
   }
 ]
