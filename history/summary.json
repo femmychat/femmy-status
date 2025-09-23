@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/c.femmy.chat.ico",
     "slug": "conduit-client-api",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.70%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 425,
     "timeDay": 333,
     "timeWeek": 425,
     "timeMonth": 425,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2025-09-23": 2
+      "2025-09-23": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://c.femmy.chat/_matrix/federation/v1/version",
     "icon": "https://icons.duckduckgo.com/ip3/c.femmy.chat.ico",
     "slug": "conduit-federation-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 47,
-    "timeDay": 28,
-    "timeWeek": 47,
-    "timeMonth": 47,
-    "timeYear": 47,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 903,
+    "timeDay": 2178,
+    "timeWeek": 903,
+    "timeMonth": 903,
+    "timeYear": 903,
     "dailyMinutesDown": {
-      "2025-09-23": 0
+      "2025-09-23": 12
     }
   }
 ]
