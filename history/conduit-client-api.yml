@@ -1,7 +1,7 @@
 url: https://c.femmy.chat/_matrix/client/versions
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-23T04:32:58.606Z
+status: up
+code: 200
+responseTime: 534
+lastUpdated: 2025-10-23T04:47:19.806Z
 startTime: 2025-09-20T00:44:28.552Z
 generator: Upptime <https://github.com/upptime/upptime>
